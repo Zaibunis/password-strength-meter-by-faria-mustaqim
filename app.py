@@ -59,9 +59,5 @@ if st.button("🔍 Analyze Password"):
             st.session_state.password_visibility = False
             st.rerun()
         
-
-
-
-
 st.write("----------------------------------------------------------------")
-st.write("Build with 💖 by [Faria Khan](https://github.com/Zaibunis)")
+st.write("Build with 💖 by [Faria Mustaqim](https://github.com/Zaibunis)")
